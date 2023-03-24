@@ -1,6 +1,6 @@
 <?php
 
-namespace Omi\Helpers;
+namespace Mzhaaf\Helpers;
 
 use DB;
 
