@@ -1,0 +1,15 @@
+{
+    "name": "mzhaaf/helpers",
+    "autoload": {
+        "psr-4": {
+            "Mzhaaf\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mzhaaf",
+            "email": "hafizhatul.kiromi@sirclo.com"
+        }
+    ],
+    "require": {}
+}
