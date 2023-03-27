@@ -1,8 +1,8 @@
 {
-    "name": "mzhaaf/helpers",
+    "name": "omi/helpers",
     "autoload": {
         "psr-4": {
-            "Mzhaaf\\Helpers\\": "src/"
+            "Omi\\Helpers\\": "src/"
         }
     },
     "authors": [
